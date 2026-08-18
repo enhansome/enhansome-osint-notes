@@ -105,7 +105,7 @@ Email verification and deliverability checker.
 GHunt (v2) is an offensive Google framework, designed to evolve efficiently.
 It's currently focused on OSINT, but any use related with Google is possible.
 
-**URL:** <https://github.com/mxrch/GHunt> ⭐ 19,375 | 🐛 72 | 🌐 Python | 📅 2026-04-10
+**URL:** <https://github.com/mxrch/GHunt> ⭐ 19,382 | 🐛 73 | 🌐 Python | 📅 2026-04-10
 
 **Tags:** GitHub, Python, Email, Phone
 
@@ -658,7 +658,7 @@ Report Sections:
 
 Drop-in replacement for the network lists previously available at ipverse.net based on Internet number resource usage data published by the Regional Internet Registries (RIR). The data is organized by\[...]
 
-**URL:** <https://github.com/ipverse/rir-ip> ⭐ 468 | 🐛 0 | 📅 2026-08-17
+**URL:** <https://github.com/ipverse/rir-ip> ⭐ 469 | 🐛 0 | 📅 2026-08-18
 
 **Tags:** IP, Geolocation, GitHub, IPv4, IPv6
 
@@ -781,7 +781,7 @@ The world's most popular network protocol analyzer.
 Fetch information about any public Google document.
 It's working on Google Drive, Google Docs, Google Spreadsheets, Google Slides, Google Drawning, Google My Maps, Google Apps Script, Google Jamboard
 
-**URL:** <https://github.com/Malfrats/xeuledoc> ⭐ 1,020 | 🐛 1 | 🌐 Python | 📅 2023-11-14
+**URL:** <https://github.com/Malfrats/xeuledoc> ⭐ 1,021 | 🐛 1 | 🌐 Python | 📅 2023-11-14
 
 **Tags:** GitHub, Python, Google Docs
 
@@ -942,7 +942,7 @@ Attack Surface Management Platform. The ultimate all-in-one offensive security f
 * Discover hidden assets and vulnerabilities in your environment
 * Integrate with the leading commercial and \[...]
 
-**URL:** <https://github.com/1N3/Sn1per> ⭐ 10,775 | 🐛 7 | 🌐 Shell | 📅 2026-07-04
+**URL:** <https://github.com/1N3/Sn1per> ⭐ 10,778 | 🐛 7 | 🌐 Shell | 📅 2026-07-04
 
 **Tags:** Framework, GitHub, Vulnerabilities, Python, CVE
 
@@ -1221,7 +1221,7 @@ Find out everything about a domain name, IP address or provider. Discover relati
 
 A small tool to show the potential privacy implications modern social media have. By tracking online/offline status of people on Facebook, it is possible to get an accurate image of their sleep patter\[...]
 
-**URL:** <https://github.com/sorenlouv/fb-sleep-stats> ⭐ 1,704 | 🐛 49 | 🌐 JavaScript | 📅 2020-09-29
+**URL:** <https://github.com/sorenlouv/fb-sleep-stats> ⭐ 1,705 | 🐛 49 | 🌐 JavaScript | 📅 2020-09-29
 
 **Tags:** GitHub, NodeJS, Facebook
 
@@ -1247,7 +1247,7 @@ Gobuster is a tool used to brute-force:
 * Open Amazon S3 buckets
 * Op\[...]
 
-**URL:** <https://github.com/OJ/gobuster> ⭐ 13,995 | 🐛 20 | 🌐 Go | 📅 2026-08-13
+**URL:** <https://github.com/OJ/gobuster> ⭐ 13,995 | 🐛 20 | 🌐 Go | 📅 2026-08-17
 
 **Tags:** GitHub, GoLang, URL, DNS, Amazon S3, Google Cloud, TFTP, Server, AWS
 
@@ -1396,7 +1396,7 @@ Osintgram is an OSINT tool on Instagram to collect, analyze, and run reconnaissa
 
 Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.
 
-**URL:** <https://github.com/Datalux/Osintgram> ⭐ 14,015 | 🐛 884 | 🌐 Python | 📅 2025-08-25
+**URL:** <https://github.com/Datalux/Osintgram> ⭐ 14,025 | 🐛 884 | 🌐 Python | 📅 2025-08-25
 
 **Tags:** GitHub, Python, Instagram
 
@@ -1478,7 +1478,7 @@ Custom search for Facebook: Search by mutual friends, location, school, gender, 
 
 SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi\[...]
 
-**URL:** <https://github.com/danielmiessler/SecLists> ⭐ 72,885 | 🐛 12 | 🌐 PHP | 📅 2026-08-16
+**URL:** <https://github.com/danielmiessler/SecLists> ⭐ 72,905 | 🐛 12 | 🌐 PHP | 📅 2026-08-17
 
 **Tags:** GitHub, Username, Password, URL, Web shell
 
@@ -1518,7 +1518,7 @@ Find Addresses, Phones, Emails, and Much More!
 
 theHarvester is a simple to use, yet powerful tool designed to be used during the reconnaissance stage of a red team assessment or penetration test. It performs open source intelligence (OSINT) gather\[...]
 
-**URL:** <https://github.com/laramies/theHarvester> ⭐ 17,078 | 🐛 8 | 🌐 Python | 📅 2026-08-17
+**URL:** <https://github.com/laramies/theHarvester> ⭐ 17,093 | 🐛 8 | 🌐 Python | 📅 2026-08-17
 
 **Tags:** GitHub, Python, Name, Email, IP, Subdomains, Domain, Host, URL
 
@@ -1643,7 +1643,7 @@ Malware, phishing & other threats database.
 
 Altdns is a DNS recon tool that allows for the discovery of subdomains that conform to patterns. Altdns takes in words that could be present in subdomains under a domain (such as test, dev, staging) a\[...]
 
-**URL:** <https://github.com/infosec-au/altdns> ⭐ 2,504 | 🐛 18 | 🌐 Python | 📅 2025-01-09
+**URL:** <https://github.com/infosec-au/altdns> ⭐ 2,503 | 🐛 18 | 🌐 Python | 📅 2025-01-09
 
 **Tags:** GitHub, Python, Website, DNS, Subdomains, Host
 
@@ -1684,7 +1684,7 @@ and reports that show the exposure of what is connected to the Internet.
 
 Blackweb is a project that collects and unifies public blocklists of domains (porn, downloads, drugs, malware, spyware, trackers, bots, social networks, warez, weapons, etc.) to make them compatible w\[...]
 
-**URL:** <https://github.com/maravento/blackweb> ⭐ 396 | 🐛 0 | 🌐 Shell | 📅 2026-08-14
+**URL:** <https://github.com/maravento/blackweb> ⭐ 396 | 🐛 0 | 🌐 Shell | 📅 2026-08-18
 
 **Tags:** URL, Domain, Subdomains
 
@@ -1704,7 +1704,7 @@ Blocklist.de is a free and voluntary service provided by a Fraud/Abuse-specialis
 
 DNS Recon | Brute Forcer | DNS Zone Transfer | DNS Wild Card Checks | DNS Wild Card Brute Forcer | Email Enumeration | Staff Enumeration | Compromised Account Enumeration | MetaData Harvesting.
 
-**URL:** <https://github.com/darryllane/Bluto> ⭐ 667 | 🐛 4 | 🌐 Python | 📅 2022-09-24
+**URL:** <https://github.com/darryllane/Bluto> ⭐ 668 | 🐛 4 | 🌐 Python | 📅 2022-09-24
 
 **Tags:** GitHub, Python, DNS, IP, Email, Website, Server
 
@@ -1755,7 +1755,7 @@ Censys empowers security teams with the most comprehensive, accurate, and up-to-
 
 Best and simplest way to monitor websites for changes, change detection, website checker, webpage change monitoring and webpage change detection tool - with alerts and notifications!
 
-**URL:** <https://github.com/dgtlmoon/changedetection.io> ⭐ 33,196 | 🐛 374 | 🌐 Python | 📅 2026-08-16
+**URL:** <https://github.com/dgtlmoon/changedetection.io> ⭐ 33,214 | 🐛 373 | 🌐 Python | 📅 2026-08-16
 
 **Tags:** Website, Monitoring, URL, Link, GitHub, Python
 
@@ -1775,7 +1775,7 @@ CheckShortURL supports a wide range of URL shortening services, including t.co, 
 
 CloudFail is a tactical reconnaissance tool which aims to gather enough information about a target protected by Cloudflare in the hopes of discovering the location of the server. Using Tor to mask all\[...]
 
-**URL:** <https://github.com/m0rtem/CloudFail> ⭐ 2,675 | 🐛 60 | 🌐 Python | 📅 2024-03-26
+**URL:** <https://github.com/m0rtem/CloudFail> ⭐ 2,676 | 🐛 60 | 🌐 Python | 📅 2024-03-26
 
 **Tags:** Cloud, CloudFlare, Domain, Host, IP
 
@@ -1849,7 +1849,7 @@ This script provides the ability to perform:
 * Enumerate General DNS Records for a given Domain (MX, SOA, NS, A, AAAA, SPF and TXT).
 * Perform common SRV Rec\[...]
 
-**URL:** <https://github.com/darkoperator/dnsrecon> ⭐ 3,059 | 🐛 1 | 🌐 Python | 📅 2026-08-16
+**URL:** <https://github.com/darkoperator/dnsrecon> ⭐ 3,059 | 🐛 2 | 🌐 Python | 📅 2026-08-17
 
 **Tags:** GitHub, Python, Domain, Host, IP, DNS, Subdomains
 
@@ -2086,7 +2086,7 @@ This is an Internet-scale port scanner. It can scan the entire Internet in under
 
 Its usage (parameters, output) is simila\[...]
 
-**URL:** <https://github.com/robertdavidgraham/masscan> ⭐ 25,933 | 🐛 414 | 🌐 C | 📅 2026-04-23
+**URL:** <https://github.com/robertdavidgraham/masscan> ⭐ 25,932 | 🐛 414 | 🌐 C | 📅 2026-04-23
 
 **Tags:** Scanning, IP, Port, Host, Domain
 
@@ -2362,7 +2362,7 @@ The unified OSINT research tool: domain, IP, IPv6, ASN, SSL, Analytics, Adsense,
 
 Recon-ng is a full-featured reconnaissance framework designed with the goal of providing a powerful environment to conduct open source web-based reconnaissance quickly and thoroughly.
 
-**URL:** <https://github.com/lanmaster53/recon-ng> ⭐ 5,855 | 🐛 38 | 🌐 Python | 📅 2024-11-01
+**URL:** <https://github.com/lanmaster53/recon-ng> ⭐ 5,856 | 🐛 38 | 🌐 Python | 📅 2024-11-01
 
 **Tags:** GitHub, Python, Website, Framework, Reconnaissance
 
@@ -2556,7 +2556,7 @@ Get a quick aggregated view of everything the Web can promptly tell you about a 
 
 WhatWeb identifies websites. Its goal is to answer the question, "What is that Website?" WhatWeb recognises web technologies including content management systems (CMS), blogging platforms, statistic/a\[...]
 
-**URL:** <https://github.com/urbanadventurer/WhatWeb> ⭐ 6,782 | 🐛 51 | 🌐 Ruby | 📅 2026-04-02
+**URL:** <https://github.com/urbanadventurer/WhatWeb> ⭐ 6,783 | 🐛 51 | 🌐 Ruby | 📅 2026-04-02
 
 **Tags:** GitHub, Ruby, Domain, Host, Website
 
@@ -2602,4 +2602,4 @@ Zulu is a dynamic risk scoring engine for web based content.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
