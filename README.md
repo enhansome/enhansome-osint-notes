@@ -105,7 +105,7 @@ Email verification and deliverability checker.
 GHunt (v2) is an offensive Google framework, designed to evolve efficiently.
 It's currently focused on OSINT, but any use related with Google is possible.
 
-**URL:** <https://github.com/mxrch/GHunt> ⭐ 19,383 | 🐛 73 | 🌐 Python | 📅 2026-04-10
+**URL:** <https://github.com/mxrch/GHunt> ⭐ 19,386 | 🐛 73 | 🌐 Python | 📅 2026-04-10
 
 **Tags:** GitHub, Python, Email, Phone
 
@@ -942,7 +942,7 @@ Attack Surface Management Platform. The ultimate all-in-one offensive security f
 * Discover hidden assets and vulnerabilities in your environment
 * Integrate with the leading commercial and \[...]
 
-**URL:** <https://github.com/1N3/Sn1per> ⭐ 10,781 | 🐛 7 | 🌐 Shell | 📅 2026-07-04
+**URL:** <https://github.com/1N3/Sn1per> ⭐ 10,783 | 🐛 7 | 🌐 Shell | 📅 2026-07-04
 
 **Tags:** Framework, GitHub, Vulnerabilities, Python, CVE
 
@@ -1111,7 +1111,7 @@ BackTweets enables you to search through an archive of old tweets and find tweet
 A tool to crawl the graph of certificate Alternate Names.
 CertGraph crawls SSL certificates creating a directed graph where each domain is a node and the certificate alternative names for that domain'\[...]
 
-**URL:** <https://github.com/lanrat/certgraph> ⭐ 378 | 🐛 3 | 🌐 Go | 📅 2026-07-03
+**URL:** <https://github.com/lanrat/certgraph> ⭐ 379 | 🐛 3 | 🌐 Go | 📅 2026-07-03
 
 **Tags:** GitHub, GoLang, SSL, Certificate
 
@@ -1171,7 +1171,7 @@ Domain Name System (DNS) Historical Record Archive.
 
 See what sort of trouble users can get in trying to type your domain name. Find lookalike domains that adversaries can use to attack you. Can detect typosquatters, phishing attacks, fraud, and brand i\[...]
 
-**URL:** <https://github.com/elceef/dnstwist> ⭐ 5,727 | 🐛 18 | 🌐 Python | 📅 2025-04-15
+**URL:** <https://github.com/elceef/dnstwist> ⭐ 5,728 | 🐛 18 | 🌐 Python | 📅 2025-04-15
 
 **Tags:** GitHub, Python, Domain, Host, Website
 
@@ -1247,7 +1247,7 @@ Gobuster is a tool used to brute-force:
 * Open Amazon S3 buckets
 * Op\[...]
 
-**URL:** <https://github.com/OJ/gobuster> ⭐ 13,998 | 🐛 20 | 🌐 Go | 📅 2026-08-17
+**URL:** <https://github.com/OJ/gobuster> ⭐ 13,997 | 🐛 20 | 🌐 Go | 📅 2026-08-17
 
 **Tags:** GitHub, GoLang, URL, DNS, Amazon S3, Google Cloud, TFTP, Server, AWS
 
@@ -1396,7 +1396,7 @@ Osintgram is an OSINT tool on Instagram to collect, analyze, and run reconnaissa
 
 Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.
 
-**URL:** <https://github.com/Datalux/Osintgram> ⭐ 14,033 | 🐛 884 | 🌐 Python | 📅 2025-08-25
+**URL:** <https://github.com/Datalux/Osintgram> ⭐ 14,039 | 🐛 884 | 🌐 Python | 📅 2025-08-25
 
 **Tags:** GitHub, Python, Instagram
 
@@ -1478,7 +1478,7 @@ Custom search for Facebook: Search by mutual friends, location, school, gender, 
 
 SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi\[...]
 
-**URL:** <https://github.com/danielmiessler/SecLists> ⭐ 72,920 | 🐛 12 | 🌐 PHP | 📅 2026-08-18
+**URL:** <https://github.com/danielmiessler/SecLists> ⭐ 72,930 | 🐛 12 | 🌐 PHP | 📅 2026-08-19
 
 **Tags:** GitHub, Username, Password, URL, Web shell
 
@@ -1518,7 +1518,7 @@ Find Addresses, Phones, Emails, and Much More!
 
 theHarvester is a simple to use, yet powerful tool designed to be used during the reconnaissance stage of a red team assessment or penetration test. It performs open source intelligence (OSINT) gather\[...]
 
-**URL:** <https://github.com/laramies/theHarvester> ⭐ 17,106 | 🐛 9 | 🌐 Python | 📅 2026-08-18
+**URL:** <https://github.com/laramies/theHarvester> ⭐ 17,112 | 🐛 9 | 🌐 Python | 📅 2026-08-18
 
 **Tags:** GitHub, Python, Name, Email, IP, Subdomains, Domain, Host, URL
 
@@ -1643,7 +1643,7 @@ Malware, phishing & other threats database.
 
 Altdns is a DNS recon tool that allows for the discovery of subdomains that conform to patterns. Altdns takes in words that could be present in subdomains under a domain (such as test, dev, staging) a\[...]
 
-**URL:** <https://github.com/infosec-au/altdns> ⭐ 2,503 | 🐛 18 | 🌐 Python | 📅 2025-01-09
+**URL:** <https://github.com/infosec-au/altdns> ⭐ 2,504 | 🐛 18 | 🌐 Python | 📅 2025-01-09
 
 **Tags:** GitHub, Python, Website, DNS, Subdomains, Host
 
@@ -1755,7 +1755,7 @@ Censys empowers security teams with the most comprehensive, accurate, and up-to-
 
 Best and simplest way to monitor websites for changes, change detection, website checker, webpage change monitoring and webpage change detection tool - with alerts and notifications!
 
-**URL:** <https://github.com/dgtlmoon/changedetection.io> ⭐ 33,238 | 🐛 375 | 🌐 Python | 📅 2026-08-16
+**URL:** <https://github.com/dgtlmoon/changedetection.io> ⭐ 33,245 | 🐛 375 | 🌐 Python | 📅 2026-08-16
 
 **Tags:** Website, Monitoring, URL, Link, GitHub, Python
 
@@ -2086,7 +2086,7 @@ This is an Internet-scale port scanner. It can scan the entire Internet in under
 
 Its usage (parameters, output) is simila\[...]
 
-**URL:** <https://github.com/robertdavidgraham/masscan> ⭐ 25,935 | 🐛 414 | 🌐 C | 📅 2026-04-23
+**URL:** <https://github.com/robertdavidgraham/masscan> ⭐ 25,936 | 🐛 414 | 🌐 C | 📅 2026-04-23
 
 **Tags:** Scanning, IP, Port, Host, Domain
 
@@ -2322,7 +2322,7 @@ The website report is very comprehensive and contains website traffic, domain in
 
 Sublist3r is a python tool designed to enumerate subdomains of websites using OSINT. It helps penetration testers and bug hunters collect and gather subdomains for the domain they are targeting. Subli\[...]
 
-**URL:** <https://github.com/aboul3la/Sublist3r> ⭐ 11,023 | 🐛 253 | 🌐 Python | 📅 2024-08-02
+**URL:** <https://github.com/aboul3la/Sublist3r> ⭐ 11,021 | 🐛 253 | 🌐 Python | 📅 2024-08-02
 
 **Tags:** GitHub, Python, Website, DNS, Subdomains, Host
 
@@ -2556,7 +2556,7 @@ Get a quick aggregated view of everything the Web can promptly tell you about a 
 
 WhatWeb identifies websites. Its goal is to answer the question, "What is that Website?" WhatWeb recognises web technologies including content management systems (CMS), blogging platforms, statistic/a\[...]
 
-**URL:** <https://github.com/urbanadventurer/WhatWeb> ⭐ 6,786 | 🐛 51 | 🌐 Ruby | 📅 2026-04-02
+**URL:** <https://github.com/urbanadventurer/WhatWeb> ⭐ 6,787 | 🐛 51 | 🌐 Ruby | 📅 2026-04-02
 
 **Tags:** GitHub, Ruby, Domain, Host, Website
 
