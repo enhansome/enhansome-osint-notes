@@ -17,7 +17,7 @@
                 "last_commit": "2026-04-10T02:29:16Z",
                 "owner": "mxrch",
                 "repo": "GHunt",
-                "stars": 19429
+                "stars": 19431
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2024-09-10T20:24:32Z",
                 "owner": "megadose",
                 "repo": "holehe",
-                "stars": 14301
+                "stars": 14308
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2026-08-27T07:40:20Z",
                 "owner": "sherlock-project",
                 "repo": "sherlock",
-                "stars": 90386
+                "stars": 90388
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2026-08-27T10:09:55Z",
                 "owner": "soxoj",
                 "repo": "maigret",
-                "stars": 37089
+                "stars": 37090
               }
             },
             {
@@ -232,7 +232,7 @@
                 "last_commit": "2025-08-25T12:00:48Z",
                 "owner": "Datalux",
                 "repo": "Osintgram",
-                "stars": 14149
+                "stars": 14150
               }
             },
             {
@@ -425,7 +425,7 @@
                 "last_commit": "2026-07-04T21:10:21Z",
                 "owner": "1N3",
                 "repo": "Sn1per",
-                "stars": 11084
+                "stars": 11087
               }
             },
             {
@@ -567,7 +567,7 @@
                 "last_commit": "2026-08-27T03:04:56Z",
                 "owner": "laramies",
                 "repo": "theHarvester",
-                "stars": 17206
+                "stars": 17207
               }
             },
             {
@@ -796,7 +796,7 @@
                 "archived": false,
                 "id": 906022,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T11:40:28Z",
+                "last_commit": "2026-08-27T12:45:37Z",
                 "owner": "gildas-lormeau",
                 "repo": "SingleFile",
                 "stars": 22252
@@ -859,7 +859,7 @@
                 "last_commit": "2024-03-26T19:44:29Z",
                 "owner": "m0rtem",
                 "repo": "CloudFail",
-                "stars": 2683
+                "stars": 2684
               }
             },
             {
@@ -1009,7 +1009,7 @@
                 "last_commit": "2026-08-26T23:44:15Z",
                 "owner": "yt-dlp",
                 "repo": "yt-dlp",
-                "stars": 187276
+                "stars": 187279
               }
             }
           ],
@@ -1332,7 +1332,7 @@
                 "last_commit": "2026-08-25T21:17:45Z",
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 28411
+                "stars": 28419
               }
             },
             {
@@ -1362,7 +1362,7 @@
                 "last_commit": "2026-08-26T19:19:56Z",
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 471381
+                "stars": 471405
               }
             }
           ],
@@ -1375,7 +1375,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:56:05.960Z",
+    "last_updated": "2026-08-27T12:45:38.948Z",
     "original_repository_info": {
       "archived": false,
       "id": 215382379,
