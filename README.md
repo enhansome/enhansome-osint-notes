@@ -46,7 +46,7 @@ Investigation directory — tools, feeds, and sources.
 | [Maltiverse](https://maltiverse.com/search)                                                   | IOC enrichment and threat intelligence search                                           |
 | [Melissa](https://www.melissa.com/)                                                           | Address verification tool.                                                              |
 | [MX Toolbox](https://mxtoolbox.com/EmailHeaders.aspx)                                         | Email header analyzer and MX tools                                                      |
-| [mxrch/GHunt](https://github.com/mxrch/GHunt) ⭐ 19,762 \| 🐛 77 \| 🌐 Python \| 📅 2026-04-10 | GHunt (v2) is an offensive Google framework, designed to evolve efficiently.            |
+| [mxrch/GHunt](https://github.com/mxrch/GHunt) ⭐ 19,763 \| 🐛 77 \| 🌐 Python \| 📅 2026-04-10 | GHunt (v2) is an offensive Google framework, designed to evolve efficiently.            |
 | [ReadNotify](https://www.readnotify.com/)                                                     | ReadNotify lets you know when email you've sent gets read.                              |
 | [t4d/StalkPhish](https://github.com/t4d/StalkPhish) ⚠️ Archived                               | Identify phishing kits and reused infrastructures                                       |
 | [Urlscan](https://urlscan.io/)                                                                | Sandbox and visualize web requests from a URL                                           |
@@ -72,14 +72,14 @@ Investigation directory — tools, feeds, and sources.
 | [JackJuly/linkook](https://github.com/JackJuly/linkook) ⭐ 1,030 \| 🐛 2 \| 🌐 Python \| 📅 2026-10-01                      | —                                                                                     |
 | [Lolarchiver](https://lolarchiver.com)                                                                                     | Great searchtool e-mail address / phonenumber to accounts and gamerelated usernames   |
 | [Lookup-ID](https://lookup-id.com/)                                                                                        | Lookup-ID.com helps you to find the Facebook ID for your profile or a Group.          |
-| [megadose/holehe](https://github.com/megadose/holehe) ⭐ 15,461 \| 🐛 117 \| 🌐 Python \| 📅 2024-09-10                     | Check if email is registered on platforms                                             |
+| [megadose/holehe](https://github.com/megadose/holehe) ⭐ 15,480 \| 🐛 121 \| 🌐 Python \| 📅 2024-09-10                     | Check if email is registered on platforms                                             |
 | [Name Checkup](https://namecheckup.com/)                                                                                   | Find available usernames and domains.                                                 |
 | [Namecheckr](https://www.namecheckr.com/)                                                                                  | Check availability of your brand name in popular social networks and domain zones.    |
 | [Namechk](https://namechk.com/)                                                                                            | With Namechk, you can check the availability of a username or domain name within…     |
 | [Names Directory](https://namesdir.com/)                                                                                   | Namesdir is a simple web tool to list most of the existing first names for a surname… |
 | [Names — people](http://names.igopaygo.com/people/fake_person)                                                             | —                                                                                     |
 | [Omail — leads](https://omail.io/leads/)                                                                                   | Search email, phone by domain name.                                                   |
-| [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) ⭐ 9,483 \| 🐛 18 \| 🌐 Python \| 📅 2026-10-17               | Alternative username search engine                                                    |
+| [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) ⭐ 9,515 \| 🐛 18 \| 🌐 Python \| 📅 2026-10-17               | Alternative username search engine                                                    |
 | [Pipl](https://pipl.com/)                                                                                                  | Commercial people search & enrichment                                                 |
 | [Receive-Sms-Now](http://receive-sms-now.com/)                                                                             | —                                                                                     |
 | [Receivesmsonline](http://www.receivesmsonline.net/)                                                                       | —                                                                                     |
@@ -87,11 +87,11 @@ Investigation directory — tools, feeds, and sources.
 | [Reddit Comment Visualizer](https://roadtolarissa.com/javascript/reddit-comment-visualizer/)                               | Download and visualize all comments from a Reddit user to gain valuable insights…     |
 | [RedditMetis](https://redditmetis.com/)                                                                                    | Enter your username to see your Reddit Statistics - recent activity, comment and…     |
 | [Search is Back!](https://searchisback.com/)                                                                               | Custom search for Facebook: Search by mutual friends, location, school, gender,…      |
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) ⭐ 95,288 \| 🐛 356 \| 🌐 Python \| 📅 2026-10-31 | Username search across 350+ sites                                                     |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) ⭐ 95,355 \| 🐛 356 \| 🌐 Python \| 📅 2026-11-01 | Username search across 350+ sites                                                     |
 | [Simple Email Reputation](https://emailrep.io/)                                                                            | EmailRep uses hundreds of factors like domain age, traffic rankings, presence on…     |
 | [Skymem](https://www.skymem.info/)                                                                                         | Find email addresses of companies and people by domain name.                          |
 | [sorenlouv/fb-sleep-stats](https://github.com/sorenlouv/fb-sleep-stats) ⭐ 1,711 \| 🐛 49 \| 🌐 JavaScript \| 📅 2020-09-29 | A small tool to show the potential privacy implications modern social media have.     |
-| [soxoj/maigret](https://github.com/soxoj/maigret) ⭐ 39,548 \| 🐛 44 \| 🌐 Python \| 📅 2026-10-31                          | Collect profiles by username across 2000+ sites                                       |
+| [soxoj/maigret](https://github.com/soxoj/maigret) ⭐ 39,586 \| 🐛 47 \| 🌐 Python \| 📅 2026-10-31                          | Collect profiles by username across 2000+ sites                                       |
 | [stanfordio/truthbrush](https://github.com/stanfordio/truthbrush) ⚠️ Archived                                              | —                                                                                     |
 | [That'sThem](https://thatsthem.com/)                                                                                       | Find Addresses, Phones, Emails, and Much More!                                        |
 | [tinfoleak](https://tinfoleak.com/)                                                                                        | Search for Twitter users leaks: - Basic information about a Twitter user (name,…      |
@@ -139,7 +139,7 @@ Investigation directory — tools, feeds, and sources.
 | [Clearsky](https://Clearsky.app)                                                                                                                           | Search for accounts and shows top listed/blocked accounts last 24h                    |
 | [Clubhouse DB](https://clubhousedb.com)                                                                                                                    | Clubhouse User database                                                               |
 | [Creepy](https://www.geocreepy.com/)                                                                                                                       | A Geolocation OSINT Tool.                                                             |
-| [Datalux/Osintgram](https://github.com/Datalux/Osintgram) ⭐ 15,328 \| 🐛 6 \| 🌐 Python \| 📅 2026-10-30                                                   | Osintgram is an OSINT tool on Instagram to collect, analyze, and run reconnaissance.  |
+| [Datalux/Osintgram](https://github.com/Datalux/Osintgram) ⭐ 15,342 \| 🐛 6 \| 🌐 Python \| 📅 2026-10-30                                                   | Osintgram is an OSINT tool on Instagram to collect, analyze, and run reconnaissance.  |
 | [DeckBlue](https://Deck.blue)                                                                                                                              | Monitori BlueSky (like Tweetdeck)                                                     |
 | [digitalmethodsinitiative/dmi-tcat](https://github.com/digitalmethodsinitiative/dmi-tcat) ⚠️ Archived                                                      | The Digital Methods Initiative Twitter Capture and Analysis Toolset (DMI-TCAT)…       |
 | [drawrowfly/tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) ⭐ 5,242 \| 🐛 85 \| 🌐 TypeScript \| 📅 2023-05-19                               | Download videos, scrape metadata                                                      |
@@ -153,7 +153,7 @@ Investigation directory — tools, feeds, and sources.
 | [Hootsuite](https://www.hootsuite.com/)                                                                                                                    | Social media management and monitoring platform                                       |
 | [ImgInn](https://imginn.com/)                                                                                                                              | Story and photo viewer                                                                |
 | [InstaDP](https://instastoriesviewer.com/instadp/)                                                                                                         | View and download profile pictures                                                    |
-| [instaloader/instaloader](https://github.com/instaloader/instaloader) ⭐ 13,742 \| 🐛 69 \| 🌐 Python \| 📅 2026-10-26                                      | Download posts, stories, metadata                                                     |
+| [instaloader/instaloader](https://github.com/instaloader/instaloader) ⭐ 13,750 \| 🐛 71 \| 🌐 Python \| 📅 2026-10-26                                      | Download posts, stories, metadata                                                     |
 | [Internect](https://internect.info/)                                                                                                                       | Resolves a Bluesky handle and shows the did (ID), name history, server info and…      |
 | [JustAnotherArchivist/snscrape](https://github.com/JustAnotherArchivist/snscrape) ⭐ 5,466 \| 🐛 73 \| 🌐 Python \| 📅 2023-11-15                           | Scrape tweets, profiles, hashtags                                                     |
 | [Lucksi/LinkdTime](https://github.com/Lucksi/LinkdTime) ⭐ 70 \| 🐛 1 \| 🌐 Python \| 📅 2026-02-21                                                         | LinkedIn Timeline Generator                                                           |
@@ -178,7 +178,7 @@ Investigation directory — tools, feeds, and sources.
 | [SnooSnoop](https://snoosnoop.com/)                                                                                                                        | Analyze Reddit user                                                                   |
 | [Social Blade](https://socialblade.com/)                                                                                                                   | Stats on YouTube/Twitch/Twitter accounts                                              |
 | [StalkFace](https://stalkface.com/en/)                                                                                                                     | Extract hidden profile info                                                           |
-| [techgaun/github-dorks](https://github.com/techgaun/github-dorks) ⭐ 3,304 \| 🐛 10 \| 🌐 Python \| 📅 2026-09-15                                           | List of useful GitHub dorks                                                           |
+| [techgaun/github-dorks](https://github.com/techgaun/github-dorks) ⭐ 3,303 \| 🐛 10 \| 🌐 Python \| 📅 2026-09-15                                           | List of useful GitHub dorks                                                           |
 | [Tweet Feed](https://tweetfeed.live)                                                                                                                       | —                                                                                     |
 | [TweetFeed](https://github.com/0xDanielLopez/)                                                                                                             | —                                                                                     |
 | [Twitonomy](https://www.twitonomy.com/)                                                                                                                    | Analytics on tweets, mentions, followers, lists                                       |
@@ -412,11 +412,11 @@ Investigation directory — tools, feeds, and sources.
 | [IPQS](https://www.ipqualityscore.com/)                                                                                                                                                             | Toolbox for domain/IP intelligence                                                     |
 | [IPv4 CIDR Report](https://www.cidr-report.org/as2.0/)                                                                                                                                              | Report Sections: - Status Summary: Summary of total route table size for the past 7…   |
 | [IPv6 CIDR Report](https://www.cidr-report.org/v6/as2.0/)                                                                                                                                           | Report Sections: - Status Summary: Summary of total route table size for the past 7…   |
-| [ipverse/rir-ip](https://github.com/ipverse/rir-ip) ⭐ 485 \| 🐛 0 \| 📅 2026-10-31                                                                                                                  | Drop-in replacement for the network lists previously available at ipverse.net based…   |
+| [ipverse/rir-ip](https://github.com/ipverse/rir-ip) ⭐ 486 \| 🐛 0 \| 📅 2026-11-01                                                                                                                  | Drop-in replacement for the network lists previously available at ipverse.net based…   |
 | [IPVoid](https://www.ipvoid.com/)                                                                                                                                                                   | IP lookup and blacklist checks                                                         |
 | [LACNIC](https://lacnic.net)                                                                                                                                                                        | Latin America and Caribbean IP registry                                                |
 | [lanrat/certgraph](https://github.com/lanrat/certgraph) ⭐ 384 \| 🐛 2 \| 🌐 Go \| 📅 2026-10-11                                                                                                     | A tool to crawl the graph of certificate Alternate Names.                              |
-| [laramies/theHarvester](https://github.com/laramies/theHarvester) ⭐ 18,190 \| 🐛 7 \| 🌐 Python \| 📅 2026-10-30                                                                                    | theHarvester is a simple to use, yet powerful tool designed to be used during the…     |
+| [laramies/theHarvester](https://github.com/laramies/theHarvester) ⭐ 18,206 \| 🐛 7 \| 🌐 Python \| 📅 2026-10-30                                                                                    | theHarvester is a simple to use, yet powerful tool designed to be used during the…     |
 | [Leaked Cables](https://search.wikileaks.org/plusd/)                                                                                                                                                | Fulltext search by US diplomacy leaked documents in WikiLeaks.                         |
 | [MailScrap](https://mailscrap.com/)                                                                                                                                                                 | This email verification tool actually connects to the mail server and checks whether…  |
 | [Malfrats/xeuledoc](https://github.com/Malfrats/xeuledoc) ⭐ 1,035 \| 🐛 1 \| 🌐 Python \| 📅 2023-11-14                                                                                             | Fetch information about any public Google document.                                    |
@@ -459,12 +459,12 @@ Investigation directory — tools, feeds, and sources.
 | Resource                                                                                                                                  | About                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | [aancw/Belati](https://github.com/aancw/Belati) ⚠️ Archived                                                                               | Belati is tool for Collecting Public Data & Public Document from Website and other…      |
-| [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) ⭐ 11,075 \| 🐛 253 \| 🌐 Python \| 📅 2024-08-02                              | Sublist3r is a python tool designed to enumerate subdomains of websites using OSINT.     |
+| [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) ⭐ 11,078 \| 🐛 253 \| 🌐 Python \| 📅 2024-08-02                              | Sublist3r is a python tool designed to enumerate subdomains of websites using OSINT.     |
 | [AbuseIPDB](https://www.abuseipdb.com/)                                                                                                   | AbuseIPDB is a project dedicated to helping combat the spread of hackers, spammers,…     |
 | [alentum/sitemapper-nodejs](https://github.com/alentum/sitemapper-nodejs) ⭐ 66 \| 🐛 2 \| 🌐 JavaScript \| 📅 2016-12-02                  | Visual Site Mapper is a free service that can quickly show a map of a site.              |
 | [AlienVault - Open Threat Exchange](https://otx.alienvault.com/browse/global/pulses)                                                      | Malware, phishing & other threats database.                                              |
 | [Archive](https://archive.today/)                                                                                                         | On-demand webpage snapshots, bypasses paywalls                                           |
-| [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) ⭐ 28,909 \| 🐛 158 \| 🌐 Python \| 📅 2026-10-31                        | Self-hosted webpage archiving solution                                                   |
+| [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) ⭐ 28,917 \| 🐛 156 \| 🌐 Python \| 📅 2026-11-01                        | Self-hosted webpage archiving solution                                                   |
 | [BinaryEdge](https://www.binaryedge.io/)                                                                                                  | We scan the entire public internet, create real-time threat intelligence streams,…       |
 | [Bing Cache](https://www.bing.com/)                                                                                                       | Cached pages accessible via search results                                               |
 | [bitquark/dnspop](https://github.com/bitquark/dnspop) ⭐ 449 \| 🐛 1 \| 🌐 Shell \| 📅 2016-03-10                                          | Tools to find popular trends by analysis of DNS data.                                    |
@@ -477,11 +477,11 @@ Investigation directory — tools, feeds, and sources.
 | [CoralCDN Web Cache](http://www.coralcdn.org/)                                                                                            | Access cached copies of popular websites                                                 |
 | [Current Location](https://current-location.com/)                                                                                         | Current Location is a web app that makes it possible to view geo tagged pictures…        |
 | [cWatch Free Website Malware Scanner](https://www.webinspector.com/website-malware-scanner/)                                              | Website scanning involves searching your website for malicious software and other…       |
-| [darkoperator/dnsrecon](https://github.com/darkoperator/dnsrecon) ⭐ 3,088 \| 🐛 2 \| 🌐 Python \| 📅 2026-10-27                           | This script provides the ability to perform: - Check all NS Records for Zone Transfers.  |
+| [darkoperator/dnsrecon](https://github.com/darkoperator/dnsrecon) ⭐ 3,087 \| 🐛 2 \| 🌐 Python \| 📅 2026-10-27                           | This script provides the ability to perform: - Check all NS Records for Zone Transfers.  |
 | [darryllane/Bluto](https://github.com/darryllane/Bluto) ⭐ 670 \| 🐛 4 \| 🌐 Python \| 📅 2022-09-24                                       | DNS Recon \| Brute Forcer \| DNS Zone Transfer \| DNS Wild Card Checks \| DNS Wild Card… |
-| [dchrastil/ScrapedIn](https://github.com/dchrastil/ScrapedIn) ⭐ 1,247 \| 🐛 10 \| 🌐 Python \| 📅 2024-04-11                              | Tool to scrape LinkedIn.                                                                 |
+| [dchrastil/ScrapedIn](https://github.com/dchrastil/ScrapedIn) ⭐ 1,248 \| 🐛 10 \| 🌐 Python \| 📅 2024-04-11                              | Tool to scrape LinkedIn.                                                                 |
 | [detURL](https://deturl.com/)                                                                                                             | Save a YouTube video as an MP3 file, MP4 file, AVI file, and more!                       |
-| [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) ⭐ 35,412 \| 🐛 391 \| 🌐 Python \| 📅 2026-10-31            | Best and simplest way to monitor websites for changes, change detection, website…        |
+| [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) ⭐ 35,425 \| 🐛 392 \| 🌐 Python \| 📅 2026-10-31            | Best and simplest way to monitor websites for changes, change detection, website…        |
 | [DNSdumpster](https://dnsdumpster.com/)                                                                                                   | DNS recon & research, find & lookup dns records.                                         |
 | [DNSSEC Debugger](https://dnssec-debugger.verisignlabs.com/)                                                                              | Analyzing DNSSEC problems for your domain.                                               |
 | [DNSstuff](https://www.dnsstuff.com/freetools)                                                                                            | Free DNS tools.                                                                          |
@@ -495,7 +495,7 @@ Investigation directory — tools, feeds, and sources.
 | [GetLinkInfo](https://www.getlinkinfo.com/)                                                                                               | GetLinkInfo is a tool to get information about a link before visiting it.                |
 | [gfek/Hunting-New-Registered-Domains](https://github.com/gfek/Hunting-New-Registered-Domains) ⭐ 224 \| 🐛 4 \| 🌐 Python \| 📅 2022-12-08 | The hnrd.py is a python utility for finding and analysing potential phishing domains…    |
 | [Ghostarchive](https://ghostarchive.org/)                                                                                                 | Archive YouTube and social media posts                                                   |
-| [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) ⭐ 22,785 \| 🐛 98 \| 🌐 JavaScript \| 📅 2026-10-29             | Browser extension to save complete pages as a single HTML                                |
+| [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) ⭐ 22,794 \| 🐛 98 \| 🌐 JavaScript \| 📅 2026-10-31             | Browser extension to save complete pages as a single HTML                                |
 | [Google Images](https://images.google.com/)                                                                                               | Google Images is a search service developed by Google that allows users to search…       |
 | [Google Trends](https://trends.google.com/trends/)                                                                                        | Google Trends is well known trending search keywords monitoring tool.                    |
 | [Image Raider](https://infringement.report/api/raider-reverse-image-search/)                                                              | Image Raider - Reverse Image Search: Search the internet for websites using an image…    |
@@ -546,7 +546,7 @@ Investigation directory — tools, feeds, and sources.
 | [Tiny URL Expander](https://wheregoes.com/)                                                                                               | URL redirect checker follows the path of the URL.                                        |
 | [Trend Micro Site Safety Center](https://global.sitesafety.trendmicro.com/)                                                               | This free service has been made available so that you can check the safety of a…         |
 | [Umbrella Popularity List](https://s3-us-west-1.amazonaws.com/umbrella-static/index.html)                                                 | The popularity list contains our most queried domains based on passive DNS usage…        |
-| [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) ⭐ 6,937 \| 🐛 53 \| 🌐 Ruby \| 📅 2026-04-02                        | WhatWeb identifies websites.                                                             |
+| [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) ⭐ 6,970 \| 🐛 53 \| 🌐 Ruby \| 📅 2026-04-02                        | WhatWeb identifies websites.                                                             |
 | [urlquery](https://urlquery.net/)                                                                                                         | Unmasking the digital masquerade, one URL at a time.                                     |
 | [URLVoid](https://www.urlvoid.com/)                                                                                                       | This service helps you detect potentially malicious websites.                            |
 | [vesche/scanless](https://github.com/vesche/scanless) ⚠️ Archived                                                                         | This is a Python command-line utility and library for using websites that can…           |
@@ -559,7 +559,7 @@ Investigation directory — tools, feeds, and sources.
 | [WebCite](https://www.webcitation.org/)                                                                                                   | Citeable web archiving service (legacy, limited availability)                            |
 | [WebPageTest](https://www.webpagetest.org/)                                                                                               | The gold standard in web performance testing.                                            |
 | [Website Informer](https://website.informer.com/)                                                                                         | Get a quick aggregated view of everything the Web can promptly tell you about a site…    |
-| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 204,067 \| 🐛 2,745 \| 🌐 Python \| 📅 2026-10-29                                     | Download and archive YouTube videos                                                      |
+| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 204,325 \| 🐛 2,745 \| 🌐 Python \| 📅 2026-10-29                                     | Download and archive YouTube videos                                                      |
 | [Zulu](https://zulu.zscaler.com/)                                                                                                         | Zulu is a dynamic risk scoring engine for web based content                              |
 
 ***
@@ -575,7 +575,7 @@ Investigation directory — tools, feeds, and sources.
 | [Apple Maps](https://maps.apple.com/)                                                                                                 | Map service by Apple                                                                |
 | [ArcGIS Online](https://www.arcgis.com/)                                                                                              | Cloud-based mapping and spatial analysis                                            |
 | [Baidu Maps](https://map.baidu.com/)                                                                                                  | Map service by Baidu                                                                |
-| [bellingcat/ShadowFinder](https://github.com/bellingcat/ShadowFinder?tab=readme-ov-file) ⭐ 622 \| 🐛 12 \| 🌐 Python \| 📅 2026-09-03 | Estimating the points on the Earth's surface where a shadow of a particular length… |
+| [bellingcat/ShadowFinder](https://github.com/bellingcat/ShadowFinder?tab=readme-ov-file) ⭐ 623 \| 🐛 12 \| 🌐 Python \| 📅 2026-09-03 | Estimating the points on the Earth's surface where a shadow of a particular length… |
 | [Bing Maps](https://www.bing.com/maps)                                                                                                | Microsoft’s mapping solution                                                        |
 | [Celestrak](https://celestrak.org/)                                                                                                   | Orbital data for satellites and debris                                              |
 | [EO Browser](https://www.sentinel-hub.com/explore/eobrowser/)                                                                         | Browser-based access to Sentinel imagery                                            |
@@ -953,7 +953,7 @@ Investigation directory — tools, feeds, and sources.
 | [FOFA](https://fofa.so/)                                                                                                 | Cyber asset search engine widely used in China for exposure research               |
 | [Ghidra](https://ghidra-sre.org/)                                                                                        | Open-source reverse engineering suite developed by the NSA                         |
 | [GreyNoise](https://www.greynoise.io/)                                                                                   | Contextual intelligence for internet scanners                                      |
-| [horsicq/DIE-engine](https://github.com/horsicq/DIE-engine) ⭐ 3,330 \| 🐛 14 \| 🌐 C++ \| 📅 2026-10-31                  | PE analysis tool for structure, entropy, and packers                               |
+| [horsicq/DIE-engine](https://github.com/horsicq/DIE-engine) ⭐ 3,331 \| 🐛 14 \| 🌐 C++ \| 📅 2026-10-31                  | PE analysis tool for structure, entropy, and packers                               |
 | [Hybrid Analysis](https://www.hybrid-analysis.com/)                                                                      | Dynamic malware analysis platform showing behavior and network calls               |
 | [IDA Free](https://hex-rays.com/ida-free/)                                                                               | Disassembler and debugger with visual graph analysis                               |
 | [Intelligentexploit](http://www.intelligentexploit.com)                                                                  | —                                                                                  |
@@ -964,8 +964,8 @@ Investigation directory — tools, feeds, and sources.
 | [MalShare](https://malshare.com/)                                                                                        | Public malware repository with daily sample updates                                |
 | [Maltiverse](https://maltiverse.com/)                                                                                    | IOC enrichment with threat classification and context                              |
 | [MalwareBazaar](https://bazaar.abuse.ch/)                                                                                | Malware sample and hash sharing platform                                           |
-| [mandiant/capa](https://github.com/mandiant/capa) ⭐ 6,289 \| 🐛 315 \| 🌐 Python \| 📅 2026-10-30                        | Detects capabilities and functionality in executable files                         |
-| [mandiant/flare-fakenet-ng](https://github.com/mandiant/flare-fakenet-ng) ⭐ 2,220 \| 🐛 81 \| 🌐 Python \| 📅 2026-10-30 | Network emulation tool for capturing malware traffic                               |
+| [mandiant/capa](https://github.com/mandiant/capa) ⭐ 6,291 \| 🐛 316 \| 🌐 Python \| 📅 2026-10-31                        | Detects capabilities and functionality in executable files                         |
+| [mandiant/flare-fakenet-ng](https://github.com/mandiant/flare-fakenet-ng) ⭐ 2,221 \| 🐛 81 \| 🌐 Python \| 📅 2026-10-30 | Network emulation tool for capturing malware traffic                               |
 | [MISP](https://www.misp-project.org/)                                                                                    | Open-source platform for sharing threat intelligence and IOCs                      |
 | [NVD](https://nvd.nist.gov/)                                                                                             | —                                                                                  |
 | [OpenCTI](https://www.opencti.io/en/)                                                                                    | Knowledge graph for cyber threat intelligence management                           |
@@ -1090,43 +1090,43 @@ Investigation directory — tools, feeds, and sources.
 
 *35 entries* · [back to directory](#directory)
 
-| Resource                                                                                                                | About                                                       |
-| ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| [Amiduos](https://android-emulators.com/amiduos)                                                                        | Android Emulator for Windows                                |
-| [Andi Search](https://andisearch.com/)                                                                                  | Conversational search engine with AI answers                |
-| [Android x86](https://www.linuxvmimages.com/images/android-x86)                                                         | Repo of Android VDI-images                                  |
-| [BigNox](https://bignox.com)                                                                                            | Another Android Emulator, lots of options                   |
-| [Bluestacks](https://bluestacks.com)                                                                                    | Android App player for Windows & Mac                        |
-| [CMD5](http://www.cmd5.org/)                                                                                            | —                                                           |
-| [Codebeautify — encrypt decrypt](http://codebeautify.org/encrypt-decrypt)                                               | —                                                           |
-| [Crackstation](https://crackstation.net/)                                                                               | —                                                           |
-| [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) ⭐ 74,453 \| 🐛 9 \| 🌐 PHP \| 📅 2026-10-30       | SecLists is the security tester's companion.                |
-| [DataSploit/datasploit](https://github.com/DataSploit/datasploit) ⭐ 3,332 \| 🐛 107 \| 🌐 Python \| 📅 2025-11-20       | OSINT automation toolset                                    |
-| [ElevenPaths/FOCA](https://github.com/ElevenPaths/FOCA) ⭐ 3,664 \| 🐛 26 \| 🌐 C# \| 📅 2022-12-08                      | Document metadata collection and analysis                   |
-| [Genymotion](https://genymotion.com)                                                                                    | Cloud bases Android devices                                 |
-| [Hugging Face Spaces](https://huggingface.co/spaces)                                                                    | Community-driven AI models for NLP, vision, and OSINT tasks |
-| [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) ⭐ 4,777 \| 🐛 100 \| 🌐 Python \| 📅 2026-10-30 | API-driven threat intel and OSINT automation                |
-| [Kali Linux](https://www.kali.org/)                                                                                     | Linux distribution with OSINT and recon tools included      |
-| [laramies/metagoofil](https://github.com/laramies/metagoofil) ⭐ 1,352 \| 🐛 19 \| 🌐 Python \| 📅 2024-03-21            | Metadata extraction from public documents                   |
-| [Maltego](https://www.maltego.com/)                                                                                     | Link analysis and visualization platform                    |
-| [MD5](http://md5.rednoize.com/)                                                                                         | —                                                           |
-| [Md5Crack](http://www.md5crack.com/)                                                                                    | —                                                           |
-| [Md5Decryption](http://md5decryption.com/)                                                                              | —                                                           |
-| [ninoseki/mitaka](https://github.com/ninoseki/mitaka) ⭐ 1,886 \| 🐛 10 \| 🌐 TypeScript \| 📅 2026-10-21                | IOC investigation from the browser                          |
-| [Onlinehashcrack](http://www.onlinehashcrack.com/)                                                                      | —                                                           |
-| [OpenCTI](https://filigran.io/platforms/opencti/)                                                                       | Threat intelligence platform with enrichment modules        |
-| [Passcracking](http://passcracking.com/)                                                                                | —                                                           |
-| [Perplexity](https://www.perplexity.ai/)                                                                                | AI-powered search engine with cited sources                 |
-| [Phind](https://www.phind.com/)                                                                                         | AI search engine specialized in technical topics            |
-| [Sensity AI](https://sensity.ai/)                                                                                       | Detect deepfakes and manipulated visual media               |
-| [Shodan Plugin](https://chromewebstore.google.com/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap)                       | Shodan search extension                                     |
-| [simsong/bulk\_extractor](https://github.com/simsong/bulk_extractor) ⭐ 1,437 \| 🐛 68 \| 🌐 C++ \| 📅 2026-10-12        | Forensic tool for extracting digital artifacts              |
-| [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) ⭐ 24,134 \| 🐛 380 \| 🌐 Python \| 📅 2026-04-13        | Automated reconnaissance with 200+ modules                  |
-| [Textmechanic — Encryption Generator.html](http://textmechanic.com/Encryption-Generator.html)                           | —                                                           |
-| [TheHive-Project/Cortex](https://github.com/TheHive-Project/Cortex) ⭐ 1,639 \| 🐛 174 \| 🌐 Scala \| 📅 2026-10-20      | Observable analysis and enrichment framework                |
-| [Tydal — article](http://www.tydal.nu/article/md5-crack/)                                                               | —                                                           |
-| [Wappalyzer Extension](https://www.wappalyzer.com/apps/)                                                                | Detect web technologies directly in browser                 |
-| [Yellowpipe — yis](http://www.yellowpipe.com/yis/tools/encrypter/)                                                      | —                                                           |
+| Resource                                                                                                               | About                                                       |
+| ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| [Amiduos](https://android-emulators.com/amiduos)                                                                       | Android Emulator for Windows                                |
+| [Andi Search](https://andisearch.com/)                                                                                 | Conversational search engine with AI answers                |
+| [Android x86](https://www.linuxvmimages.com/images/android-x86)                                                        | Repo of Android VDI-images                                  |
+| [BigNox](https://bignox.com)                                                                                           | Another Android Emulator, lots of options                   |
+| [Bluestacks](https://bluestacks.com)                                                                                   | Android App player for Windows & Mac                        |
+| [CMD5](http://www.cmd5.org/)                                                                                           | —                                                           |
+| [Codebeautify — encrypt decrypt](http://codebeautify.org/encrypt-decrypt)                                              | —                                                           |
+| [Crackstation](https://crackstation.net/)                                                                              | —                                                           |
+| [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) ⭐ 74,460 \| 🐛 9 \| 🌐 PHP \| 📅 2026-10-31      | SecLists is the security tester's companion.                |
+| [DataSploit/datasploit](https://github.com/DataSploit/datasploit) ⭐ 3,332 \| 🐛 107 \| 🌐 Python \| 📅 2025-11-20      | OSINT automation toolset                                    |
+| [ElevenPaths/FOCA](https://github.com/ElevenPaths/FOCA) ⭐ 3,664 \| 🐛 26 \| 🌐 C# \| 📅 2022-12-08                     | Document metadata collection and analysis                   |
+| [Genymotion](https://genymotion.com)                                                                                   | Cloud bases Android devices                                 |
+| [Hugging Face Spaces](https://huggingface.co/spaces)                                                                   | Community-driven AI models for NLP, vision, and OSINT tasks |
+| [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) ⭐ 4,780 \| 🐛 88 \| 🌐 Python \| 📅 2026-10-31 | API-driven threat intel and OSINT automation                |
+| [Kali Linux](https://www.kali.org/)                                                                                    | Linux distribution with OSINT and recon tools included      |
+| [laramies/metagoofil](https://github.com/laramies/metagoofil) ⭐ 1,352 \| 🐛 19 \| 🌐 Python \| 📅 2024-03-21           | Metadata extraction from public documents                   |
+| [Maltego](https://www.maltego.com/)                                                                                    | Link analysis and visualization platform                    |
+| [MD5](http://md5.rednoize.com/)                                                                                        | —                                                           |
+| [Md5Crack](http://www.md5crack.com/)                                                                                   | —                                                           |
+| [Md5Decryption](http://md5decryption.com/)                                                                             | —                                                           |
+| [ninoseki/mitaka](https://github.com/ninoseki/mitaka) ⭐ 1,886 \| 🐛 10 \| 🌐 TypeScript \| 📅 2026-10-21               | IOC investigation from the browser                          |
+| [Onlinehashcrack](http://www.onlinehashcrack.com/)                                                                     | —                                                           |
+| [OpenCTI](https://filigran.io/platforms/opencti/)                                                                      | Threat intelligence platform with enrichment modules        |
+| [Passcracking](http://passcracking.com/)                                                                               | —                                                           |
+| [Perplexity](https://www.perplexity.ai/)                                                                               | AI-powered search engine with cited sources                 |
+| [Phind](https://www.phind.com/)                                                                                        | AI search engine specialized in technical topics            |
+| [Sensity AI](https://sensity.ai/)                                                                                      | Detect deepfakes and manipulated visual media               |
+| [Shodan Plugin](https://chromewebstore.google.com/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap)                      | Shodan search extension                                     |
+| [simsong/bulk\_extractor](https://github.com/simsong/bulk_extractor) ⭐ 1,438 \| 🐛 68 \| 🌐 C++ \| 📅 2026-10-12       | Forensic tool for extracting digital artifacts              |
+| [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) ⭐ 24,196 \| 🐛 383 \| 🌐 Python \| 📅 2026-04-13       | Automated reconnaissance with 200+ modules                  |
+| [Textmechanic — Encryption Generator.html](http://textmechanic.com/Encryption-Generator.html)                          | —                                                           |
+| [TheHive-Project/Cortex](https://github.com/TheHive-Project/Cortex) ⭐ 1,640 \| 🐛 174 \| 🌐 Scala \| 📅 2026-10-20     | Observable analysis and enrichment framework                |
+| [Tydal — article](http://www.tydal.nu/article/md5-crack/)                                                              | —                                                           |
+| [Wappalyzer Extension](https://www.wappalyzer.com/apps/)                                                               | Detect web technologies directly in browser                 |
+| [Yellowpipe — yis](http://www.yellowpipe.com/yis/tools/encrypter/)                                                     | —                                                           |
 
 ### Communications & SIGINT
 
@@ -1185,9 +1185,9 @@ Investigation directory — tools, feeds, and sources.
 | [Beers with Talos](https://talosintelligence.com/podcasts)                                                                                | Podcast by Cisco Talos discussing incident response, threat research, and security…      |
 | [Bellingcat OSINT Guides](https://www.bellingcat.com/resources/)                                                                          | Investigative journalism and OSINT techniques                                            |
 | [Bellingcat Workshops](https://www.bellingcat.com/workshops/)                                                                             | Paid training on open source investigations                                              |
-| [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) ⭐ 14,003 \| 🐛 28 \| 📅 2023-04-03              | —                                                                                        |
+| [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) ⭐ 14,004 \| 🐛 28 \| 📅 2023-04-03              | —                                                                                        |
 | [Blackarch — tools.html](http://www.blackarch.org/tools.html)                                                                             | —                                                                                        |
-| [botcrypto-io/awesome-crypto-trading-bots](https://github.com/botcrypto-io/awesome-crypto-trading-bots) ⭐ 2,542 \| 🐛 85 \| 📅 2026-08-10 | —                                                                                        |
+| [botcrypto-io/awesome-crypto-trading-bots](https://github.com/botcrypto-io/awesome-crypto-trading-bots) ⭐ 2,542 \| 🐛 86 \| 📅 2026-08-10 | —                                                                                        |
 | [Breakthesecurity](http://breakthesecurity.cysecurity.org/)                                                                               | —                                                                                        |
 | [Buscador](https://inteltechniques.com/buscador/)                                                                                         | —                                                                                        |
 | [Cloak & Dagger](https://podcasts.apple.com/be/podcast/cloak-and-dagger-an-osint-podcast/id1685681095)                                    | Independent OSINT podcast analyzing conflicts, disinformation, and investigative methods |
@@ -1219,7 +1219,7 @@ Investigation directory — tools, feeds, and sources.
 | [Ip2Location — demo](http://www.ip2location.com/demo)                                                                                     | —                                                                                        |
 | [Ipaddress](http://ipaddress.com)                                                                                                         | —                                                                                        |
 | [Ipleak](https://ipleak.net/)                                                                                                             | —                                                                                        |
-| [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) ⭐ 30,589 \| 🐛 5 \| 📅 2026-10-30                                           | —                                                                                        |
+| [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) ⭐ 30,620 \| 🐛 1 \| 📅 2026-10-31                                           | —                                                                                        |
 | [Kase Scenarios](https://kasescenarios.com/)                                                                                              | Immersive free and paid OSINT scenarios to learn and train skills                        |
 | [Kb — vuls](https://www.kb.cert.org/vuls/)                                                                                                | —                                                                                        |
 | [Kitploit](http://www.kitploit.com/)                                                                                                      | —                                                                                        |
@@ -1246,7 +1246,7 @@ Investigation directory — tools, feeds, and sources.
 | [OSINTrack](https://osintrack.com/)                                                                                                       | Another resource directory, but with fancy graphics!                                     |
 | [Packetstormsecurity](http://packetstormsecurity.com/)                                                                                    | —                                                                                        |
 | [Pentest-Tools — reconnaissance](https://pentest-tools.com/reconnaissance/google-hacking)                                                 | —                                                                                        |
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) ⭐ 493,619 \| 🐛 2,496 \| 🌐 Python \| 📅 2026-10-30                 | —                                                                                        |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) ⭐ 493,908 \| 🐛 2,518 \| 🌐 Python \| 📅 2026-10-30                 | —                                                                                        |
 | [Romhacking — utilities](http://www.romhacking.net/utilities/)                                                                            | —                                                                                        |
 | [SecJuice](https://www.secjuice.com/)                                                                                                     | Articles on OSINT, infosec, and cyber investigations                                     |
 | [Secunia — community](https://secunia.com/community/advisories/search/)                                                                   | —                                                                                        |
@@ -1280,4 +1280,4 @@ Research and education only.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
